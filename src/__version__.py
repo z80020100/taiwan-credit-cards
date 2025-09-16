@@ -1,5 +1,3 @@
-"""Version information for python-template."""
+"""Version information for taiwan-credit-cards."""
 
-from importlib.metadata import version
-
-__version__ = version("python-template")
+__version__ = "0.1.0"
